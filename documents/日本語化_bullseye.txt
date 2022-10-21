@@ -1,0 +1,4 @@
+sudo apt install fcitx-mozc
+sudo apt install fonts-noto-cjk
+
+sudo apt install libreoffice-help-ja
