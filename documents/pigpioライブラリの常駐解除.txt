@@ -1,2 +1,2 @@
-sudo　systemctl disable
+sudo systemctl disable
 systemctl is-enabled pigpiod

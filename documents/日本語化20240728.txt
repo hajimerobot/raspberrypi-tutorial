@@ -1,0 +1,2 @@
+sudo apt install fcitx5-mozc
+sudo apt install fonts-noto-cjk

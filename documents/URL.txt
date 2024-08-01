@@ -1,0 +1,26 @@
+URL
+
+Raspberry Pi Active Cooler
+https://www.raspberrypi.com/products/active-cooler/
+
+Raspberry Pi Case for Raspberry Pi 5
+https://www.raspberrypi.com/products/raspberry-pi-5-case/
+
+Raspberry Pi
+https://www.raspberrypi.com/
+
+Raspberry Pi OS
+https://www.raspberrypi.com/software/
+
+GPIO and the 40-pin header
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#gpio
+
+gpiozero
+https://gpiozero.readthedocs.io/en/stable/
+
+RPi.GPIO
+https://pypi.org/project/RPi.GPIO/
+
+pigpio
+https://abyz.me.uk/rpi/pigpio/
+
