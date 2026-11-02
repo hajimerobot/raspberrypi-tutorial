@@ -1,18 +1,21 @@
 URL
 
+Raspberry Pi
+https://www.raspberrypi.com/
+
+Raspberry Pi 5
+https://www.raspberrypi.com/products/raspberry-pi-5/
+
 Raspberry Pi Active Cooler
 https://www.raspberrypi.com/products/active-cooler/
 
 Raspberry Pi Case for Raspberry Pi 5
 https://www.raspberrypi.com/products/raspberry-pi-5-case/
 
-Raspberry Pi
-https://www.raspberrypi.com/
-
 Raspberry Pi OS
 https://www.raspberrypi.com/software/
 
-GPIO and the 40-pin header
+40-pin GPIO header
 https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#gpio
 
 gpiozero
@@ -24,3 +27,5 @@ https://pypi.org/project/RPi.GPIO/
 pigpio
 https://abyz.me.uk/rpi/pigpio/
 
+抵抗のカラーコード（JARL）
+https://www.jarl.org/Japanese/7_Technical/lib1/teikou.htm

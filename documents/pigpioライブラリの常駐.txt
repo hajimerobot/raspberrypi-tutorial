@@ -1,3 +1,0 @@
-sudo systemctl enable pigpiod
-sudo systemctl start pigpiod
-systemctl is-enabled pigpiod

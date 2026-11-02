@@ -1,3 +1,0 @@
-sudo apt install ibus-mozc
-sudo apt install fonts-noto-cjk
-sudo apt install libreoffice-help-ja
